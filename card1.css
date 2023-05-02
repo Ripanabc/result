@@ -53,6 +53,7 @@
   position: relative;
   min-height: 200px;
   display: flex;
+ border-radius:100℅;
   flex-flow: column;
   align-items: center;
   justify-content: space-between;
