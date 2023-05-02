@@ -53,6 +53,7 @@
   position: relative;
   min-height: 200px;
   display: flex;
+  border-radius:130%;
   flex-flow: column;
   align-items: center;
   justify-content: space-between;
@@ -90,7 +91,7 @@ i {
   height: 35%;
   justify-content: space-around;
   align-items: center;
-  background-color: #F3FFF2;
+  background-color: #F3FF02;
 }
 
 .profile-projects, .profile-prototypes {
